@@ -212,9 +212,9 @@ a[data-v-6dead439] {
 }
 .eg-fullscreen-button {
   position: absolute;
-  left: 10px;
+  left: 50%;
   bottom: 10px;
-  color: white;
+  color: #666666;
   font-size: 0.5em;
   font-weight: bold;
 }
